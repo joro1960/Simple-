@@ -1,13 +1,13 @@
 This documentation describes how to use the Pavel robotic
 
-toothbrush!!  XD :))))
+toothbrush!!  XD :)))) !!
 
-Now, we happy? 
+Now, we happy? !!
 
-Note that this toothbrush is not safe to use for children,
+Note that this toothbrush is not safe to use for children,!! 
 
-adults, or pets.
+adults, or pets.!!
 
-TESTS
+TESTS !!
 
-Okay now we are gonna say, "hello world" :) 
+Okay now we are gonna say, "hello world" :)  !!
